@@ -81,15 +81,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                REST API Glüky-Challenge - Daniel Güecha
                 </div>
-                <form  action="/api/files"  method="POST" enctype="multipart/form-data">
-                    <div class="custom-file">
-                        <input type="file" name="thing" >
-                        <label class="custom-file-label" for="customFileLang">Seleccionar Archivo</label>
-                      </div>
-                    <button type="submit" class="btn btn-primary">Enviar</button>
-                  </form>
 
 
                 </div>
